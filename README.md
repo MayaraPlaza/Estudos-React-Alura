@@ -15,7 +15,8 @@ Instalar npx, caso ainda não tenha:
 Novo projeto:
 "npx create-react-app nomedoprojeto"
 
-
+Para rodar o projeto: 
+npm start no node
 
 
 
