@@ -4,9 +4,8 @@
 
 <br>
 <br>
-<br>
-<br>
 
+ 
 <p><strong>Para criar novo projeto:</strong></p>
 
 Instalar npx, caso ainda não tenha:
